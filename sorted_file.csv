@@ -1,0 +1,372 @@
+Timestamp,ID,Name,Departments
+9/13/2023 21:53:19,23X-1271,Landon,Animations
+9/13/2023 16:15:56,24Z-9044,Sarah Baker,Animations
+9/15/2023 13:42:35,23A-3508,Henry Morris,Animations
+9/14/2023 12:58:10,23X-1273,Liam Alexander Smith,Animations
+9/13/2023 16:23:51,23A-3488,Lily Wright,Animations
+9/15/2023 13:31:54,24Z-9064,Samuel White,Animations
+9/15/2023 15:39:19,23A-3512,Harper Williams,Animations
+9/13/2023 20:23:48,24Z-9047,Elijah Foster,Animations
+9/15/2023 12:33:31,24Z-9062,Emma Turner,Animations
+9/15/2023 14:12:49,23Y-5731,Ethan Mason,Animations
+9/12/2023 17:13:04,24Z-9026,Mia Carter,Automation
+9/15/2023 13:31:54,24Z-9064,Samuel White,Automation
+9/15/2023 14:12:49,23Y-5731,Ethan Mason,Automation
+9/15/2023 10:44:47,23Y-5726,John William,Automation
+9/12/2023 14:20:55,23A-3461,Alexander Johnson,Automation
+9/12/2023 15:23:04,24Z-9021,Benjamin Harris,Automation
+9/13/2023 21:17:42,24Z-9048,Ava Lewis,Automation
+9/13/2023 21:34:08,23A-3492,Elijah,Automation
+9/15/2023 13:57:06,23X-1287,Joseph Anderson,Automation
+9/14/2023 21:04:37,23A-3500,James Carter,Automation
+9/15/2023 13:42:35,23A-3508,Henry Morris,Automation
+9/12/2023 14:10:17,24Z-9015,William Scott,Automation
+9/13/2023 11:33:33,23Y-5702,Samuel Wright,Automation
+9/12/2023 14:10:20,23A-3459,Noah Isaac Johnson,Automation
+9/15/2023 15:31:17,24Z-9068,Madison Scott,Automation
+9/12/2023 17:14:06,23A-3470,Ava Wilson,Automation
+9/12/2023 14:10:12,23Y-5681,Ethan Turner,Automation
+9/12/2023 14:09:48,23X-1237,Joshua Davis,Automation
+9/15/2023 14:44:24,23X-1288,Matthew Williams,Content
+9/12/2023 18:43:26,23X-1251,Sophie Carter,Content
+9/12/2023 13:17:49,23Y-5678,Sarah Olivia Taylor,Content
+9/13/2023 11:33:33,23Y-5702,Samuel Wright,Content
+9/15/2023 10:44:15,23X-1282,Sarah Olivia Taylor,Content
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Content
+9/14/2023 2:29:36,24Z-9050,Lily Thomas,Content
+9/15/2023 11:46:19,23A-3505,Andrew Clark,Content
+9/12/2023 17:07:50,23Y-5692,Mia,Content
+9/15/2023 18:46:11,23Y-5736,Christopher King,Content
+9/15/2023 12:50:16,24Z-9063,Noah Isaac Johnson,Content
+9/13/2023 13:40:15,24Z-9038,William Robinson,Content
+9/15/2023 15:41:56,23X-1291,Michael Harrison,Content
+9/12/2023 13:36:32,23A-3457,Liam Alexander,Content
+9/12/2023 16:20:05,23Y-5690,Luke Thompson,Content
+9/12/2023 17:38:23,23Y-5693,Olivia Harris,Content
+9/15/2023 14:12:49,23Y-5731,Ethan Mason,Content
+9/15/2023 14:28:07,24Z-9065,Alexander Johnson,Content
+9/15/2023 13:31:54,24Z-9064,Samuel White,Content
+Timestamp,NU-ID,FULL NAME,DEPARTMENT
+9/13/2023 21:53:19,23X-1271,Landon,"Departments related to Tech,startup scene"
+9/13/2023 20:58:59,23X-1270,Sarah Smith,Design
+9/13/2023 20:23:48,24Z-9047,Elijah Foster,Design
+9/13/2023 14:16:56,24Z-9039,Emma,Design
+9/14/2023 2:29:36,24Z-9050,Lily Thomas,Design
+9/12/2023 16:39:10,24Z-9024,Sarah Taylor,Design
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Design
+9/12/2023 20:55:55,23Y-5696,James Taylor,Design
+9/15/2023 13:31:54,24Z-9064,Samuel White,Design
+9/15/2023 11:10:42,23X-1283,Benjamin James,Design
+9/15/2023 10:44:15,23X-1282,Sarah Olivia Taylor,Design
+9/15/2023 19:38:23,23X-1293,James Smith,Design
+9/15/2023 13:42:35,23A-3508,Henry Morris,Design
+9/12/2023 13:17:49,23Y-5678,Sarah Olivia Taylor,Design
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Design
+9/15/2023 16:09:29,24Z-9069,Owen,Design
+9/15/2023 14:12:49,23Y-5731,Ethan Mason,Design
+9/12/2023 13:36:32,23A-3457,Liam Alexander,Design
+9/14/2023 17:51:59,23X-1277,Matthew King,Design
+9/14/2023 15:16:58,23Y-5720,Benjamin Wright,Design
+9/14/2023 20:10:25,23A-3499,Benjamin,Design
+9/15/2023 14:28:07,24Z-9065,Alexander Johnson,Design
+9/15/2023 15:39:19,23A-3512,Harper Williams,Design
+9/13/2023 18:10:54,24Z-9046,Zoe Taylor,Event Management
+9/14/2023 15:16:58,23Y-5720,Benjamin Wright,Event Management
+9/13/2023 15:34:25,23A-3485,Aiden,Event Management
+9/13/2023 14:14:06,23X-1261,Oliver Thompson,Event Management
+9/13/2023 11:09:38,23A-3479,Sophia,Event Management
+9/13/2023 1:19:06,24Z-9033,Emma Lewis,Event Management
+9/12/2023 22:13:08,23Y-5698,Lily Thomas,Event Management
+9/12/2023 21:06:52,23Y-5697,Emily Allen,Event Management
+9/13/2023 16:15:56,24Z-9044,Sarah Baker,Event Management
+9/13/2023 15:21:40,23Y-5707,Samuel,Event Management
+9/13/2023 19:48:58,23Y-5713,Emma,Event Management
+9/13/2023 18:59:22,23A-3490,Noah Foster,Event Management
+9/14/2023 14:23:17,23X-1276,Sophia Davis,Event Management
+9/14/2023 14:22:56,23A-3497,Emma Clark,Event Management
+9/14/2023 14:22:28,24Z-9053,Jack Smith,Event Management
+9/14/2023 14:22:11,23Y-5719,Caleb,Event Management
+9/14/2023 14:15:27,23X-1275,William,Event Management
+9/14/2023 14:13:57,24Z-9052,Ethan,Event Management
+9/14/2023 14:12:58,23Y-5718,Ethan Davis,Event Management
+9/14/2023 17:09:10,24Z-9054,Daniel Adams,Event Management
+9/15/2023 12:27:33,23Y-5728,Daniel Mitchell,Event Management
+9/14/2023 13:54:15,23X-1274,Noah,Event Management
+9/12/2023 21:04:29,23X-1253,Emma Carter,Event Management
+9/13/2023 21:56:21,24Z-9049,Henry Davis,Event Management
+9/14/2023 20:52:53,23X-1278,Benjamin Davis,Event Management
+9/14/2023 21:06:36,23X-1279,Daniel King,Event Management
+9/15/2023 9:31:59,23X-1280,Hannah Turner,Event Management
+9/15/2023 9:32:11,23Y-5724,Grace Turner,Event Management
+9/15/2023 9:32:25,24Z-9058,Elizabeth Clark,Event Management
+9/15/2023 10:10:16,23A-3503,Michael Alexander Smith,Event Management
+9/14/2023 17:33:36,23A-3498,Joshua Carter,Event Management
+9/14/2023 20:10:25,23A-3499,Benjamin,Event Management
+9/13/2023 16:23:51,23A-3488,Lily Wright,Event Management
+9/12/2023 16:18:41,23X-1246,Matthew Anderson,Event Management
+9/12/2023 14:12:45,23Y-5682,Daniel King,Event Management
+9/12/2023 14:28:21,23X-1240,Samuel Taylor,Event Management
+9/12/2023 18:06:23,23Y-5694,Emily King,Event Management
+9/12/2023 16:51:48,23A-3468,Amelia,Event Management
+9/12/2023 18:00:48,23X-1250,Abigail Hall,Event Management
+9/12/2023 15:03:54,23A-3463,Victoria Green,Event Management
+9/12/2023 15:07:02,24Z-9020,Lily,Event Management
+9/12/2023 18:43:26,23X-1251,Sophie Carter,Event Management
+9/12/2023 15:10:45,23X-1243,Harper Williams,Event Management
+9/12/2023 16:10:39,23Y-5688,Alexander Thomas,Event Management
+9/12/2023 17:05:11,23X-1248,Zoe,Event Management
+9/12/2023 16:57:42,24Z-9025,Grace Davis,Event Management
+9/12/2023 16:54:09,23Y-5691,Zoe Clark,Event Management
+9/12/2023 20:55:55,23Y-5696,James Taylor,Event Management
+9/12/2023 16:16:19,24Z-9023,Daniel White,Event Management
+9/12/2023 16:52:06,23X-1247,Leah Miller,Event Management
+9/12/2023 17:21:16,23X-1249,Lucy Turner,Event Management
+9/12/2023 14:01:35,23A-3458,Emma Turner,Event Management
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Event Management
+9/12/2023 13:34:03,24Z-9013,Christopher Miller,Event Management
+9/12/2023 16:39:10,24Z-9024,Sarah Taylor,Event Management
+9/12/2023 13:20:15,23A-3456,David,Event Management
+9/12/2023 19:40:00,24Z-9029,Zoe Davis,Event Management
+9/12/2023 19:04:39,23Y-5695,Hannah,Event Management
+9/12/2023 13:44:56,23Y-5680,Emily Anderson,Event Management
+9/12/2023 13:20:40,23X-1235,Timothy,Event Management
+9/12/2023 17:00:42,23A-3469,Natalie Taylor,Guest Relations
+9/12/2023 15:12:32,23Y-5687,Michael Harrison,Guest Relations
+9/14/2023 22:50:11,23Y-5723,Emma,Guest Relations
+9/15/2023 3:28:30,23A-3501,Natalie,Guest Relations
+9/12/2023 16:39:10,24Z-9024,Sarah Taylor,Guest Relations
+9/13/2023 15:45:07,23X-1265,Logan Smith,Guest Relations
+9/15/2023 9:32:25,24Z-9058,Elizabeth Clark,Guest Relations
+9/13/2023 16:00:08,23Y-5710,Ava,Guest Relations
+9/13/2023 15:37:28,24Z-9042,William Adams,Guest Relations
+9/13/2023 15:36:57,23X-1264,Jacob,Guest Relations
+9/15/2023 9:33:47,23A-3502,Abigail Scott,Guest Relations
+9/15/2023 9:35:57,23Y-5725,Ava Carter,Guest Relations
+9/15/2023 9:43:24,24Z-9059,Ava Scott,Guest Relations
+9/14/2023 13:10:24,23Y-5717,Aaliyah,Guest Relations
+9/13/2023 15:13:54,23A-3484,Mia,Guest Relations
+9/13/2023 15:37:01,23Y-5708,Nathan Roberts,Guest Relations
+9/14/2023 17:09:10,24Z-9054,Daniel Adams,Guest Relations
+9/12/2023 17:21:16,23X-1249,Lucy Turner,Guest Relations
+9/14/2023 21:00:11,23Y-5722,Jackson Taylor,Guest Relations
+9/12/2023 16:13:15,23A-3466,Anthony Turner,Guest Relations
+9/12/2023 20:37:02,23A-3473,Mia Thompson,Guest Relations
+9/14/2023 17:33:36,23A-3498,Joshua Carter,Guest Relations
+9/13/2023 17:47:05,23Y-5712,Ethan Davis,Guest Relations
+9/12/2023 16:11:34,24Z-9022,Christopher King,Guest Relations
+9/13/2023 17:39:03,23X-1268,Landon,Guest Relations
+9/14/2023 21:02:32,24Z-9056,Samuel Davis,Guest Relations
+9/12/2023 16:13:20,23X-1245,Elijah Johnson,Guest Relations
+9/13/2023 17:03:51,24Z-9045,Madison Foster,Guest Relations
+9/14/2023 18:38:49,23Y-5721,Daniel,Guest Relations
+9/13/2023 16:37:36,23X-1267,Emily Allen,Guest Relations
+9/14/2023 19:36:00,24Z-9055,Andrew Smith,Guest Relations
+9/12/2023 21:02:18,23A-3474,Ava Lewis,Guest Relations
+9/12/2023 16:14:15,23Y-5689,James Smith,Guest Relations
+9/13/2023 17:13:33,23A-3489,Jackson Wright,Guest Relations
+9/15/2023 14:49:40,23X-1289,Grace Moore,Guest Relations
+9/12/2023 15:06:38,23Y-5686,Abigail Roberts,Guest Relations
+9/12/2023 15:01:05,24Z-9019,Sophia Adams,Guest Relations
+9/15/2023 14:47:56,23A-3510,Hannah,Guest Relations
+9/15/2023 14:47:42,24Z-9066,William Miller,Guest Relations
+9/15/2023 14:45:13,23Y-5732,Olivia Davis,Guest Relations
+9/14/2023 1:01:00,23Y-5716,Alexander,Guest Relations
+9/13/2023 8:26:06,23A-3478,Joseph Turner,Guest Relations
+9/13/2023 8:27:16,23X-1257,Alexander Miller,Guest Relations
+9/14/2023 13:51:10,23A-3495,Aiden,Guest Relations
+9/13/2023 10:42:30,24Z-9035,Grace Davis,Guest Relations
+9/14/2023 13:12:25,24Z-9051,Emily Roberts,Guest Relations
+9/12/2023 14:12:06,23X-1238,Mason Thompson,Guest Relations
+9/12/2023 14:14:59,24Z-9016,Gabriel Mitchell,Guest Relations
+9/14/2023 0:31:08,23A-3493,Mason Miller,Guest Relations
+9/12/2023 14:20:50,24Z-9017,Ethan Mason,Guest Relations
+9/13/2023 11:46:52,24Z-9036,Ava,Guest Relations
+9/13/2023 12:49:41,23X-1259,Elijah Baker,Guest Relations
+9/12/2023 14:28:21,23X-1240,Samuel Taylor,Guest Relations
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Guest Relations
+9/15/2023 11:36:13,24Z-9061,Liam Alexander,Guest Relations
+9/15/2023 12:26:47,23X-1284,Emily Anderson,Guest Relations
+9/12/2023 15:00:16,23Y-5685,Grace Moore,Guest Relations
+9/13/2023 14:16:51,23Y-5705,Daniel Roberts,Guest Relations
+9/15/2023 15:41:56,23X-1291,Michael Harrison,Guest Relations
+9/15/2023 12:33:31,24Z-9062,Emma Turner,Guest Relations
+9/12/2023 14:32:44,23Y-5684,Matthew Williams,Guest Relations
+9/12/2023 22:28:00,24Z-9032,Mia Wilson,Guest Relations
+9/13/2023 1:19:06,24Z-9033,Emma Lewis,Guest Relations
+9/12/2023 14:48:58,23A-3462,William Miller,Guest Relations
+9/13/2023 13:33:10,23X-1260,Matthew,Guest Relations
+9/13/2023 13:06:48,23A-3481,William Green,Guest Relations
+9/13/2023 13:05:40,24Z-9037,Noah Turner,Guest Relations
+9/12/2023 14:41:20,24Z-9018,Olivia Davis,Guest Relations
+9/12/2023 22:13:08,23Y-5698,Lily Thomas,In-house Media
+9/14/2023 14:15:20,23A-3496,Samuel Taylor,In-house Media
+9/12/2023 13:14:37,23X-1234,Michael Alexander Smith,In-house Media
+9/14/2023 2:29:36,24Z-9050,Lily Thomas,In-house Media
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,In-house Media
+9/12/2023 13:17:49,23Y-5678,Sarah Olivia Taylor,In-house Media
+9/13/2023 11:09:38,23A-3479,Sophia,In-house Media
+9/12/2023 13:19:24,24Z-9012,John William,In-house Media
+9/14/2023 14:13:57,24Z-9052,Ethan,Marketing
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Marketing
+9/14/2023 14:15:27,23X-1275,William,Marketing
+9/12/2023 20:55:55,23Y-5696,James Taylor,Marketing
+9/12/2023 16:14:15,23Y-5689,James Smith,Marketing
+9/15/2023 12:43:55,23X-1285,Ethan Turner,Marketing
+9/15/2023 12:44:15,23Y-5729,William Scott,Marketing
+9/15/2023 13:31:54,24Z-9064,Samuel White,Marketing
+9/15/2023 13:42:35,23A-3508,Henry Morris,Marketing
+9/12/2023 14:14:59,24Z-9016,Gabriel Mitchell,Marketing
+9/15/2023 14:36:39,23A-3509,Samuel Taylor,Marketing
+9/15/2023 14:44:24,23X-1288,Matthew Williams,Marketing
+9/15/2023 14:56:11,23A-3511,Elizabeth Johnson,Marketing
+9/15/2023 15:02:43,23X-1290,Abigail Roberts,Marketing
+9/15/2023 17:16:50,23X-1292,Alexander Thomas,Marketing
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Marketing
+9/14/2023 14:23:17,23X-1276,Sophia Davis,Marketing
+9/15/2023 11:10:42,23X-1283,Benjamin James,Marketing
+9/14/2023 14:22:11,23Y-5719,Caleb,Marketing
+9/12/2023 16:18:41,23X-1246,Matthew Anderson,Marketing
+9/12/2023 18:38:03,23A-3472,Sophia,Marketing
+9/12/2023 17:49:13,24Z-9027,Emma Taylor,Marketing
+9/13/2023 15:54:13,23X-1266,William Turner,Marketing
+9/13/2023 1:19:06,24Z-9033,Emma Lewis,Marketing
+9/15/2023 19:46:45,23Y-5737,Daniel White,Marketing
+9/12/2023 22:39:57,23X-1255,Emily King,Marketing
+9/13/2023 11:33:33,23Y-5702,Samuel Wright,Marketing
+9/13/2023 19:44:19,23X-1269,Mia Carter,Marketing
+9/13/2023 20:23:48,24Z-9047,Elijah Foster,Marketing
+9/13/2023 12:56:33,23Y-5703,David White,Marketing
+9/13/2023 14:16:56,24Z-9039,Emma,Marketing
+9/12/2023 17:56:47,23A-3471,Emily Harris,Marketing
+9/12/2023 21:10:30,24Z-9031,Olivia King,Marketing
+9/13/2023 13:52:52,23A-3482,Jack,Marketing
+9/12/2023 16:39:10,24Z-9024,Sarah Taylor,Media and Promotions
+9/12/2023 15:36:25,23A-3465,Owen,Media and Promotions
+9/12/2023 20:55:55,23Y-5696,James Taylor,Media and Promotions
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Media and Promotions
+9/15/2023 12:50:16,24Z-9063,Noah Isaac Johnson,Media and Promotions
+9/13/2023 7:33:44,23Y-5700,William Green,Media and Promotions
+9/13/2023 15:52:30,23A-3487,Henry Davis,Media and Promotions
+9/13/2023 8:13:20,24Z-9034,Noah Foster,Media and Promotions
+9/13/2023 15:52:28,24Z-9043,Gabriel Lewis,Media and Promotions
+9/13/2023 15:51:45,23Y-5709,Isaac Williams,Media and Promotions
+9/15/2023 14:28:07,24Z-9065,Alexander Johnson,Media and Promotions
+9/13/2023 15:43:31,23A-3486,Mason,Media and Promotions
+9/15/2023 13:25:13,23A-3507,Mason Thompson,Media and Promotions
+9/14/2023 2:29:36,24Z-9050,Lily Thomas,Media and Promotions
+9/15/2023 13:57:06,23X-1287,Joseph Anderson,Media and Promotions
+9/15/2023 18:48:38,24Z-9070,Anthony Turner,Media and Promotions
+9/14/2023 20:10:25,23A-3499,Benjamin,Media and Promotions
+9/12/2023 22:39:57,23X-1255,Emily King,Media and Promotions
+9/13/2023 14:55:43,23Y-5706,Emily,Media and Promotions
+9/13/2023 21:14:24,23Y-5714,Ava Roberts,Media and Promotions
+9/12/2023 21:10:30,24Z-9031,Olivia King,Media and Promotions
+9/15/2023 13:42:35,23A-3508,Henry Morris,Media and Promotions
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Media and Promotions
+9/12/2023 23:19:42,23Y-5699,Mia Johnson,Media and Promotions
+9/15/2023 17:16:50,23X-1292,Alexander Thomas,Media and Promotions
+9/13/2023 20:23:48,24Z-9047,Elijah Foster,Media and Promotions
+9/13/2023 14:16:56,24Z-9039,Emma,Public Relations
+9/12/2023 15:06:07,23X-1242,Elizabeth Johnson,Public Relations
+9/12/2023 15:01:05,24Z-9019,Sophia Adams,Public Relations
+9/12/2023 18:07:23,24Z-9028,Madison Mitchell,Public Relations
+9/13/2023 13:06:48,23A-3481,William Green,Public Relations
+9/12/2023 14:19:25,23A-3460,Samuel White,Public Relations
+9/12/2023 14:20:37,23Y-5683,Joseph Anderson,Public Relations
+9/12/2023 14:20:10,23X-1239,Henry Morris,Public Relations
+9/13/2023 13:05:40,24Z-9037,Noah Turner,Public Relations
+9/13/2023 12:49:41,23X-1259,Elijah Baker,Public Relations
+9/15/2023 11:10:42,23X-1283,Benjamin James,Public Relations
+9/14/2023 21:04:37,23A-3500,James Carter,Public Relations
+9/15/2023 12:44:15,23Y-5729,William Scott,Public Relations
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Public Relations
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Public Relations
+9/12/2023 16:16:19,24Z-9023,Daniel White,Public Relations
+9/14/2023 2:29:36,24Z-9050,Lily Thomas,Public Relations
+9/13/2023 20:25:19,23A-3491,Layla Turner,Public Relations
+9/12/2023 13:23:03,23Y-5679,Benjamin James,Public Relations
+9/13/2023 15:23:27,24Z-9041,Michael Smith,Public Relations
+9/12/2023 16:39:10,24Z-9024,Sarah Taylor,Public Relations
+9/14/2023 17:09:10,24Z-9054,Daniel Adams,Public Relations
+9/14/2023 17:33:36,23A-3498,Joshua Carter,Public Relations
+9/12/2023 22:37:04,23A-3476,Chloe Adams,Public Relations
+9/13/2023 17:47:05,23Y-5712,Ethan Davis,Public Relations
+9/15/2023 15:28:17,23Y-5734,Lily,Public Relations
+9/13/2023 1:19:06,24Z-9033,Emma Lewis,Public Relations
+9/12/2023 13:49:38,24Z-9014,Daniel Mitchell,Public Relations
+9/12/2023 15:07:02,24Z-9020,Lily,Public Relations
+9/12/2023 19:04:39,23Y-5695,Hannah,Public Relations
+9/15/2023 19:46:45,23Y-5737,Daniel White,Public Relations
+9/13/2023 11:21:19,23X-1258,Henry Foster,SOP Compliance
+9/12/2023 21:12:28,23A-3475,Layla Roberts,SOP Compliance
+9/13/2023 11:59:58,23A-3480,Emily Roberts,SOP Compliance
+9/12/2023 14:50:08,23X-1241,Hannah,SOP Compliance
+9/13/2023 16:15:56,24Z-9044,Sarah Baker,SOP Compliance
+9/13/2023 16:23:51,23A-3488,Lily Wright,SOP Compliance
+9/14/2023 17:33:36,23A-3498,Joshua Carter,SOP Compliance
+9/14/2023 17:09:10,24Z-9054,Daniel Adams,SOP Compliance
+9/14/2023 21:06:36,23X-1279,Daniel King,SOP Compliance
+9/14/2023 23:14:06,24Z-9057,Sophie Taylor,SOP Compliance
+9/13/2023 14:55:22,23X-1262,Sophia Lewis,SOP Compliance
+9/15/2023 11:17:28,23Y-5727,Christopher Miller,SOP Compliance
+9/13/2023 16:47:40,23Y-5711,Mia Foster,SOP Compliance
+9/12/2023 16:16:59,23A-3467,Caleb Allen,Security/Administration 
+9/12/2023 20:55:55,23Y-5696,James Taylor,Training and Mentorship
+9/15/2023 14:55:58,24Z-9067,Victoria Green,Training and Mentorship
+9/15/2023 14:52:53,23Y-5733,Sophia Adams,Training and Mentorship
+9/13/2023 13:40:15,24Z-9038,William Robinson,Training and Mentorship
+9/15/2023 14:47:42,24Z-9066,William Miller,Training and Mentorship
+9/13/2023 4:00:51,23A-3477,Benjamin,Training and Mentorship
+9/13/2023 4:05:43,23X-1256,Benjamin Thomas,Training and Mentorship
+9/13/2023 13:33:45,23Y-5704,Owen Harris,Training and Mentorship
+9/14/2023 11:05:49,23A-3494,Benjamin Roberts,Training and Mentorship
+9/14/2023 0:31:16,23X-1272,Samuel Wright,Training and Mentorship
+9/15/2023 13:25:53,23X-1286,Daniel King,Training and Mentorship
+9/15/2023 16:54:37,23A-3513,Oliver Adams,Training and Mentorship
+9/13/2023 15:19:48,23X-1263,Mia,Training and Mentorship
+9/12/2023 17:14:06,23A-3470,Ava Wilson,Training and Mentorship
+9/15/2023 12:33:31,24Z-9062,Emma Turner,Training and Mentorship
+9/13/2023 14:30:27,23A-3483,Abigail Williams,Training and Mentorship
+9/13/2023 11:33:33,23Y-5702,Samuel Wright,Training and Mentorship
+9/13/2023 21:54:04,23Y-5715,Madison Scott,Training and Mentorship
+9/15/2023 17:16:50,23X-1292,Alexander Thomas,Web Development
+9/13/2023 20:58:59,23X-1270,Sarah Smith,Web Development
+9/13/2023 21:53:19,23X-1271,Landon,Web Development
+9/13/2023 21:54:04,23Y-5715,Madison Scott,Web Development
+9/12/2023 16:54:09,23Y-5691,Zoe Clark,Web Development
+9/15/2023 15:49:52,23Y-5735,Benjamin Harris,Web Development
+9/15/2023 19:19:07,23A-3514,Elijah Johnson,Web Development
+9/12/2023 17:14:06,23A-3470,Ava Wilson,Web Development
+9/12/2023 13:42:27,23X-1236,Andrew Clark,Web Development
+9/12/2023 20:39:45,23X-1252,Christopher White,Web Development
+9/14/2023 17:51:59,23X-1277,Matthew King,Web Development
+9/15/2023 16:54:37,23A-3513,Oliver Adams,Web Development
+9/12/2023 20:58:26,24Z-9030,Ava,Web Development
+9/14/2023 14:23:17,23X-1276,Sophia Davis,Web Development
+9/12/2023 21:57:37,23X-1254,Sophia Baker,Web Development
+9/13/2023 13:40:15,24Z-9038,William Robinson,Web Development
+9/15/2023 14:55:58,24Z-9067,Victoria Green,Web Development
+9/15/2023 12:35:17,23A-3506,Joshua Davis,Web Development
+9/15/2023 13:25:53,23X-1286,Daniel King,Web Development
+9/15/2023 13:28:38,23Y-5730,Gabriel Mitchell,Web Development
+9/15/2023 12:33:31,24Z-9062,Emma Turner,Web Development
+9/15/2023 11:46:19,23A-3505,Andrew Clark,Web Development
+9/12/2023 17:56:47,23A-3471,Emily Harris,Web Development
+9/15/2023 10:49:34,23A-3504,Timothy,Web Development
+9/15/2023 10:46:38,24Z-9060,David,Web Development
+9/15/2023 10:44:47,23Y-5726,John William,Web Development
+9/15/2023 15:31:17,24Z-9068,Madison Scott,Web Development
+9/15/2023 13:57:06,23X-1287,Joseph Anderson,Web Development
+9/13/2023 15:10:20,24Z-9040,Ava Clark,Web Development
+9/15/2023 9:34:58,23X-1281,Lily Wilson,Web Development
+9/13/2023 11:09:38,23A-3479,Sophia,Web Development
+9/12/2023 15:09:32,23A-3464,Madison Scott,Web Development
+9/13/2023 9:17:52,23Y-5701,Elizabeth Baker,Web Development
+9/12/2023 13:49:38,24Z-9014,Daniel Mitchell,Web Development
+9/12/2023 15:23:04,24Z-9021,Benjamin Harris,Web Development
+9/15/2023 14:44:24,23X-1288,Matthew Williams,Web Development
+9/12/2023 16:08:04,23X-1244,Oliver Adams,Web Development
+9/15/2023 14:52:53,23Y-5733,Sophia Adams,Web Development
+9/15/2023 10:44:15,23X-1282,Sarah Olivia Taylor,Web Development
+9/15/2023 19:46:45,23Y-5737,Daniel White,Web Development
+9/13/2023 21:53:19,23X-1271,Landon,coding....
